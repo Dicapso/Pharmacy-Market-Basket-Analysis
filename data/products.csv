@@ -1,0 +1,50 @@
+product_id,product_name,category,list_price,is_rx
+P01,Cold & flu powder,Cold & flu,6.4,0
+P02,Throat lozenges,Cold & flu,4.2,0
+P03,Nasal spray,Cold & flu,5.8,0
+P04,Cough syrup,Cold & flu,7.9,0
+P05,Vitamin C 1000,Vitamins,8.5,0
+P06,Paper tissues,Hygiene,1.2,0
+P07,Digital thermometer,Devices,12.0,0
+P08,Ibuprofen 400,Pain relief,3.6,0
+P09,Paracetamol 500,Pain relief,2.4,0
+P10,Metamizole 500,Pain relief,2.1,0
+P11,Pain relief gel,Pain relief,9.4,0
+P12,Amoxicillin 500,Antibiotics (Rx),7.2,1
+P13,Azithromycin 500,Antibiotics (Rx),11.5,1
+P14,Probiotic capsules,Digestive,14.8,0
+P15,Antacid tablets,Digestive,5.3,0
+P16,Activated charcoal,Digestive,1.1,0
+P17,Oral rehydration salts,Digestive,2.9,0
+P18,Loperamide 2,Digestive,3.2,0
+P19,Amlodipine 5,Cardio (Rx),6.6,1
+P20,Lisinopril 10,Cardio (Rx),5.9,1
+P21,Blood pressure monitor,Devices,58.0,0
+P22,Magnesium B6,Vitamins,9.8,0
+P23,Omega-3,Vitamins,16.5,0
+P24,Metformin 850,Diabetes (Rx),4.7,1
+P25,Glucose test strips,Diabetes,24.0,0
+P26,Lancets,Diabetes,7.5,0
+P27,Infant formula,Baby care,21.0,0
+P28,Diapers,Baby care,18.5,0
+P29,Baby wipes,Baby care,3.4,0
+P30,Diaper cream,Baby care,8.2,0
+P31,Sunscreen SPF50,Skin & sun,19.9,0
+P32,After-sun gel,Skin & sun,12.4,0
+P33,Insect repellent,Skin & sun,6.9,0
+P34,Moisturising cream,Skin & sun,11.2,0
+P35,Plasters,First aid,2.3,0
+P36,Antiseptic solution,First aid,2.8,0
+P37,Elastic bandage,First aid,3.9,0
+P38,Cotton pads,Hygiene,1.8,0
+P39,Toothpaste,Dental,4.6,0
+P40,Toothbrush,Dental,3.5,0
+P41,Mouthwash,Dental,6.3,0
+P42,Hand sanitiser,Hygiene,2.6,0
+P43,Contact lens solution,Eye care,13.6,0
+P44,Eye drops,Eye care,7.4,0
+P45,Antihistamine (cetirizine),Allergy,4.9,0
+P46,Multivitamin,Vitamins,15.2,0
+P47,Vitamin D3,Vitamins,10.6,0
+P48,Zinc,Vitamins,7.8,0
+P49,Iron supplement,Vitamins,9.1,0
